@@ -1,4 +1,4 @@
-ThE Code is from:https://github.com/prakashjayy/pytorch_classifiers, Thanks!
+The code is from:https://github.com/prakashjayy/pytorch_classifiers, Thanks!
 ## This is an experimental setup to build code base for pytorch. Its main is to experiment faster using transfer learning on all available pre-trained models.
 
 ### Dataset: Plant Seedlings classification
